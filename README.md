@@ -4,33 +4,30 @@
 Desarrollador WordPress con más de 5 años de experiencia trabajando con tecnologías como HTML, CSS, AWS, Google Cloud, cPanel y VPS. Actualmente trabajo como freelance para una empresas ubicadas USA. Ayudo crear contenido digital para startups y pequeñas empresas. Busco trabajar con empresas internacionales donde pueda contribuir a nuevos proyectos. Me enfoco en nuevos retos para mantenerme en constante crecimiento.
 
 ## Educación
-- [Nombre de la institución], [Título obtenido], [Fecha de graduación]
-- [Nombre de la institución], [Título obtenido], [Fecha de graduación]
-
-## Experiencia laboral
-### [Nombre de la empresa]
-- [Puesto], [Fecha de inicio] - [Fecha de finalización]
-- [Logros destacados]
-
-### [Nombre de la empresa]
-- [Puesto], [Fecha de inicio] - [Fecha de finalización]
-- [Logros destacados]
+| Institución               | Carrera                           | Año                |
+| ------------------------- | --------------------------------- | ------------------ |
+| SENA                      | Análisis y Desarrollo de Software | 2022 - Actualmente |
+| Escuela de Artes y Letras | Diseño Gráfico                    | 2015               |
 
 ## Habilidades
-- [Habilidad 1]
-- [Habilidad 2]
-- [Habilidad 3]
+-	PHP
+-	Wordpress
+-	HTML
+-	CSS
+-	cPanel / Plesk
+-	Shopiphy
+-	Photoshop
+-	Illustrator
+-	CorelDraw
+-	Premire
+-	Efter Effects
 
-## Idiomas
-- [Idioma 1]: [Nivel de fluidez]
-- [Idioma 2]: [Nivel de fluidez]
-- [Idioma 3]: [Nivel de fluidez]
-
-## Proyectos destacados
-### [Nombre del proyecto]
-- [Descripción del proyecto]
-- [Enlace al proyecto]
-
-### [Nombre del proyecto]
-- [Descripción del proyecto]
-- [Enlace al proyecto]
+## Primeros Comandos
+Aquí abajo están mis primeros comandos usando WSL
+| Comando | Descripción |
+| -------- | ---------- |
+| CD | Cambiar de Directorio |
+| ls | Listar directorio |
+| mkdir | Crear un directorio |
+| rmdir | borrar directorios |
+| clear | sirve para borrar la pantalla de terminal |
