@@ -24,13 +24,13 @@ Desarrollador WordPress con más de 5 años de experiencia trabajando con tecnol
 
 ## ✏ Primeros Comandos
 Aquí abajo están mis primeros comandos usando WSL
-| Comando | Descripción |
-| -------- | ---------- |
-| CD | Cambiar de Directorio |
-| ls | Listar directorio |
-| mkdir | Crear un directorio |
-| rmdir | borrar directorios |
-| clear | sirve para borrar la pantalla de terminal |
+| Comando  | Descripción                               |
+| -------- | ---------------------------------------   |
+| CD       | Cambiar de Directorio                     |
+| ls       | Listar directorio                         |
+| mkdir    | Crear un directorio                       |
+| rmdir    | borrar directorios                        |
+| clear    | sirve para borrar la pantalla de terminal |
 
 ##  ⌨ Estos son mis alias
 ```
